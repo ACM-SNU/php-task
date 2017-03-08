@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='php-task/img.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/hmnhGeek/php-task/blob/master/img.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
